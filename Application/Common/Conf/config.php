@@ -1,6 +1,7 @@
 <?php
 return array(
     'URL_MODEL' => 2,
+    'URL_HTML_SUFFIX' => 'php',
 //    'URL_CASE_INSENSITIVE'  =>  true, //url不区分大小写
 //    'debug' => true,
 
