@@ -1,0 +1,2138 @@
+[ 2017-12-15T01:39:54+08:00 ] 47.93.112.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-12-15T01:53:25+08:00 ] 94.102.49.174 /cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-12-15T02:19:17+08:00 ] 222.186.46.28 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-12-15T02:19:17+08:00 ] 222.186.46.28 /index.action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载控制器:Index.action
+
+[ 2017-12-15T03:14:04+08:00 ] 123.151.42.61 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-12-15T03:26:12+08:00 ] 47.94.52.159 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-12-15T03:58:42+08:00 ] 47.100.84.151 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-12-15T04:21:38+08:00 ] 139.162.108.53 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-12-15T04:39:26+08:00 ] 120.132.19.52 /404/search_children.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载控制器:404
+
+[ 2017-12-15T07:18:42+08:00 ] 123.59.146.153 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-12-15T08:02:07+08:00 ] 125.88.146.3 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-12-15T08:02:07+08:00 ] 125.88.146.3 /index.action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载控制器:Index.action
+
+[ 2017-12-15T09:36:56+08:00 ] 116.62.176.205 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-12-15T10:03:36+08:00 ] 120.204.17.71 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-12-15T10:14:51+08:00 ] 121.201.118.17 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-12-15T10:14:51+08:00 ] 121.201.118.17 /index.action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载控制器:Index.action
+
+[ 2017-12-15T10:39:20+08:00 ] 111.201.84.25 /opt/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2017-12-15T10:39:21+08:00 ] 111.201.84.25 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+
+[ 2017-12-15T10:39:32+08:00 ] 111.201.84.25 /opt/setParam
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-12-15T10:42:38+08:00 ] 60.191.38.77 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-12-15T11:57:25+08:00 ] 101.226.233.139 /?signature=de1bddf175b8704744d3813e8b62ce379c2e4e3f&timestamp=1513310245&nonce=1975321152&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-12-15T11:57:27+08:00 ] 120.204.17.73 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-12-15T11:57:27+08:00 ] 223.167.152.13 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-12-15T11:57:27+08:00 ] 61.129.6.78 /user/getcode?nsukey=k%2Fi4qiTNym2FIKq9sPZG%2F3p6uwOWSCYubqrz4RWPNRKKcICed0XgrIrEueH%2FTu0ShUqeBu41ESXnVcmQvErqEeB1vx4YjVHV9I2OUZN8Ffz8ltlAhijUVmBuz8vW5DZUFkRMracYEn2QIl5shGy5Rprcg2FYhbwimEougrNz4XMlNWCPeCiwxrd1WHvHWEdwzZUYm6TfCGnrEiWjrfI16A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004493s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-12-15T11:57:29+08:00 ] 61.129.6.148 /user/getcode?nsukey=k%2Fi4qiTNym2FIKq9sPZG%2F3p6uwOWSCYubqrz4RWPNRKKcICed0XgrIrEueH%2FTu0ShUqeBu41ESXnVcmQvErqEeB1vx4YjVHV9I2OUZN8Ffz8ltlAhijUVmBuz8vW5DZUFkRMracYEn2QIl5shGy5Rprcg2FYhbwimEougrNz4XMlNWCPeCiwxrd1WHvHWEdwzZUYm6TfCGnrEiWjrfI16A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004164s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-12-15T11:57:29+08:00 ] 114.242.249.127 /user/getcode?nsukey=k%2Fi4qiTNym2FIKq9sPZG%2F3p6uwOWSCYubqrz4RWPNRKKcICed0XgrIrEueH%2FTu0ShUqeBu41ESXnVcmQvErqEeB1vx4YjVHV9I2OUZN8Ffz8ltlAhijUVmBuz8vW5DZUFkRMracYEn2QIl5shGy5Rprcg2FYhbwimEougrNz4XMlNWCPeCiwxrd1WHvHWEdwzZUYm6TfCGnrEiWjrfI16A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-12-15T11:58:09+08:00 ] 114.242.249.127 /user/getcode?nsukey=k%2Fi4qiTNym2FIKq9sPZG%2F3p6uwOWSCYubqrz4RWPNRKKcICed0XgrIrEueH%2FTu0ShUqeBu41ESXnVcmQvErqEeB1vx4YjVHV9I2OUZN8Ffz8ltlAhijUVmBuz8vW5DZUFkRMracYEn2QIl5shGy5Rprcg2FYhbwimEougrNz4XMlNWCPeCiwxrd1WHvHWEdwzZUYm6TfCGnrEiWjrfI16A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-12-15T11:58:18+08:00 ] 58.247.212.98 /user/getcode?nsukey=k%2Fi4qiTNym2FIKq9sPZG%2F3p6uwOWSCYubqrz4RWPNRKKcICed0XgrIrEueH%2FTu0ShUqeBu41ESXnVcmQvErqEeB1vx4YjVHV9I2OUZN8Ffz8ltlAhijUVmBuz8vW5DZUFkRMracYEn2QIl5shGy5Rprcg2FYhbwimEougrNz4XMlNWCPeCiwxrd1WHvHWEdwzZUYm6TfCGnrEiWjrfI16A%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-12-15T12:01:40+08:00 ] 101.226.233.149 /?signature=69d6309ae3abba2a612b5f5d5040745ed971d1c1&timestamp=1513310499&nonce=808054555&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-12-15T12:01:42+08:00 ] 14.116.133.170 /user/getcode?nsukey=RP%2BrkH42wR8NQ3O4jvnNt%2FK%2BPbYQPTN0HVuprd9e9NKtA7WbC9J3rwlvKtWVPvaVmp%2FPOIDMyKbUszfjKSzK3TZDwkEXxyyl920liiRzDDJEaSFjTG88tK%2F44maqiOEt3mUVkEAd8pVsnWGZWnvw1F%2FPgDCCUtmH61WiWHIFs7VWizd8%2BFk5PE5yEZPCgF7UyykMnxemTP6NmwK%2BBfsplQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-12-15T12:01:42+08:00 ] 157.255.172.17 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-12-15T12:01:42+08:00 ] 113.96.218.50 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-12-15T12:01:42+08:00 ] 14.116.133.171 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-12-15T12:01:42+08:00 ] 157.255.172.16 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-12-15T12:01:42+08:00 ] 113.96.219.248 /user/getcode?nsukey=RP%2BrkH42wR8NQ3O4jvnNt%2FK%2BPbYQPTN0HVuprd9e9NKtA7WbC9J3rwlvKtWVPvaVmp%2FPOIDMyKbUszfjKSzK3TZDwkEXxyyl920liiRzDDJEaSFjTG88tK%2F44maqiOEt3mUVkEAd8pVsnWGZWnvw1F%2FPgDCCUtmH61WiWHIFs7VWizd8%2BFk5PE5yEZPCgF7UyykMnxemTP6NmwK%2BBfsplQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-12-15T12:01:42+08:00 ] 114.242.249.127 /user/getcode?nsukey=RP%2BrkH42wR8NQ3O4jvnNt%2FK%2BPbYQPTN0HVuprd9e9NKtA7WbC9J3rwlvKtWVPvaVmp%2FPOIDMyKbUszfjKSzK3TZDwkEXxyyl920liiRzDDJEaSFjTG88tK%2F44maqiOEt3mUVkEAd8pVsnWGZWnvw1F%2FPgDCCUtmH61WiWHIFs7VWizd8%2BFk5PE5yEZPCgF7UyykMnxemTP6NmwK%2BBfsplQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-12-15T12:01:51+08:00 ] 120.204.17.46 /user/getcode?nsukey=RP%2BrkH42wR8NQ3O4jvnNt%2FK%2BPbYQPTN0HVuprd9e9NKtA7WbC9J3rwlvKtWVPvaVmp%2FPOIDMyKbUszfjKSzK3TZDwkEXxyyl920liiRzDDJEaSFjTG88tK%2F44maqiOEt3mUVkEAd8pVsnWGZWnvw1F%2FPgDCCUtmH61WiWHIFs7VWizd8%2BFk5PE5yEZPCgF7UyykMnxemTP6NmwK%2BBfsplQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-12-15T12:01:52+08:00 ] 183.192.201.97 /user/getcode?nsukey=RP%2BrkH42wR8NQ3O4jvnNt%2FK%2BPbYQPTN0HVuprd9e9NKtA7WbC9J3rwlvKtWVPvaVmp%2FPOIDMyKbUszfjKSzK3TZDwkEXxyyl920liiRzDDJEaSFjTG88tK%2F44maqiOEt3mUVkEAd8pVsnWGZWnvw1F%2FPgDCCUtmH61WiWHIFs7VWizd8%2BFk5PE5yEZPCgF7UyykMnxemTP6NmwK%2BBfsplQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-12-15T12:06:04+08:00 ] 101.226.233.154 /?signature=6f0509be936cc2cfd73d63fa7f0c46c2e95a191b&timestamp=1513310764&nonce=745203637&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-12-15T12:06:06+08:00 ] 14.116.133.171 /user/getcode?nsukey=RFEWZYu5BQcgKzcGlZ5p5CxMORT4d%2BaT6GLs6QLusSLBd0Mgp3nsB9NUtka6wGA%2Bypecv0UNQ41Uck8E%2BQOULWk1yp7nZxT6VKwna5jpoNcYXO0Kd5MrKiKdN4tRio1ARa7u%2FLvRrtpwF0jbrSWG%2Fe4SUdhiJomavZWY5Z%2BV6fE3vct8ojovR6HNCb2Eiltr05M7%2B7EGg1eASeg2sbpJKw%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-15T12:06:06+08:00 ] 14.116.137.168 /user/getcode?nsukey=RFEWZYu5BQcgKzcGlZ5p5CxMORT4d%2BaT6GLs6QLusSLBd0Mgp3nsB9NUtka6wGA%2Bypecv0UNQ41Uck8E%2BQOULWk1yp7nZxT6VKwna5jpoNcYXO0Kd5MrKiKdN4tRio1ARa7u%2FLvRrtpwF0jbrSWG%2Fe4SUdhiJomavZWY5Z%2BV6fE3vct8ojovR6HNCb2Eiltr05M7%2B7EGg1eASeg2sbpJKw%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-15T12:06:07+08:00 ] 114.242.249.127 /user/getcode?nsukey=RFEWZYu5BQcgKzcGlZ5p5CxMORT4d%2BaT6GLs6QLusSLBd0Mgp3nsB9NUtka6wGA%2Bypecv0UNQ41Uck8E%2BQOULWk1yp7nZxT6VKwna5jpoNcYXO0Kd5MrKiKdN4tRio1ARa7u%2FLvRrtpwF0jbrSWG%2Fe4SUdhiJomavZWY5Z%2BV6fE3vct8ojovR6HNCb2Eiltr05M7%2B7EGg1eASeg2sbpJKw%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004274s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-12-15T12:08:21+08:00 ] 101.226.233.144 /?signature=66e55413774c84ec48ced644c3e93da07189991c&timestamp=1513310900&nonce=354137&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-15T12:08:23+08:00 ] 121.51.14.20 /user/getcode?nsukey=0z%2BWw%2FJWOy%2BQY5y1OE1yKtovAjx8wUZVkxjhAc9Fgqzcu0ddS0uXrnMUiRrvKBnULZiYH%2BElpKeJaaZYYv6AemiMsNUpxzZyy1YoniQ3Zoj287w8apFi9MQJzxiLZeX12SkwHY9BH0zYw%2BTFB%2B9OPRva9I%2BaSSvHefTr%2BFD0DmQJg1EUZXQI9iZ0yc7GCewz8MMtCgiIOqoEwQJY0L8Bow%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-12-15T12:08:23+08:00 ] 14.116.133.168 /user/getcode?nsukey=0z%2BWw%2FJWOy%2BQY5y1OE1yKtovAjx8wUZVkxjhAc9Fgqzcu0ddS0uXrnMUiRrvKBnULZiYH%2BElpKeJaaZYYv6AemiMsNUpxzZyy1YoniQ3Zoj287w8apFi9MQJzxiLZeX12SkwHY9BH0zYw%2BTFB%2B9OPRva9I%2BaSSvHefTr%2BFD0DmQJg1EUZXQI9iZ0yc7GCewz8MMtCgiIOqoEwQJY0L8Bow%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-12-15T12:08:24+08:00 ] 114.242.249.127 /user/getcode?nsukey=0z%2BWw%2FJWOy%2BQY5y1OE1yKtovAjx8wUZVkxjhAc9Fgqzcu0ddS0uXrnMUiRrvKBnULZiYH%2BElpKeJaaZYYv6AemiMsNUpxzZyy1YoniQ3Zoj287w8apFi9MQJzxiLZeX12SkwHY9BH0zYw%2BTFB%2B9OPRva9I%2BaSSvHefTr%2BFD0DmQJg1EUZXQI9iZ0yc7GCewz8MMtCgiIOqoEwQJY0L8Bow%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004240s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-12-15T12:08:33+08:00 ] 120.204.17.73 /user/getcode?nsukey=0z%2BWw%2FJWOy%2BQY5y1OE1yKtovAjx8wUZVkxjhAc9Fgqzcu0ddS0uXrnMUiRrvKBnULZiYH%2BElpKeJaaZYYv6AemiMsNUpxzZyy1YoniQ3Zoj287w8apFi9MQJzxiLZeX12SkwHY9BH0zYw%2BTFB%2B9OPRva9I%2BaSSvHefTr%2BFD0DmQJg1EUZXQI9iZ0yc7GCewz8MMtCgiIOqoEwQJY0L8Bow%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-12-15T12:08:33+08:00 ] 120.204.17.67 /user/getcode?nsukey=0z%2BWw%2FJWOy%2BQY5y1OE1yKtovAjx8wUZVkxjhAc9Fgqzcu0ddS0uXrnMUiRrvKBnULZiYH%2BElpKeJaaZYYv6AemiMsNUpxzZyy1YoniQ3Zoj287w8apFi9MQJzxiLZeX12SkwHY9BH0zYw%2BTFB%2B9OPRva9I%2BaSSvHefTr%2BFD0DmQJg1EUZXQI9iZ0yc7GCewz8MMtCgiIOqoEwQJY0L8Bow%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-12-15T12:09:05+08:00 ] 101.226.233.139 /?signature=27d272d436ed211fe80cacb43375a11a078e0621&timestamp=1513310945&nonce=1183535895&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-12-15T12:09:07+08:00 ] 101.226.225.86 /user/getcode?nsukey=XJkOB9IWF1yARhXZQIFsSUY46aMoWKF%2Bl0bXnn0IpTLs8IAUok4YYBiipyWjIdjF2w7JNdTJ0XCy%2Fh%2F2q1suUC%2Bwr8l5KiRhV1h%2BM37LtdoSukHAuiOlBtPB2NbkvmHmbpUQGICm3PalikehEd3P1RNScdCm0eBqmrGtXr3FeAP%2BCuNp8pK5JwtvkPes%2FoSwWJb%2BVOKvt7Yi0f%2B6i9zZyA%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-12-15T12:09:07+08:00 ] 61.129.8.203 /user/getcode?nsukey=XJkOB9IWF1yARhXZQIFsSUY46aMoWKF%2Bl0bXnn0IpTLs8IAUok4YYBiipyWjIdjF2w7JNdTJ0XCy%2Fh%2F2q1suUC%2Bwr8l5KiRhV1h%2BM37LtdoSukHAuiOlBtPB2NbkvmHmbpUQGICm3PalikehEd3P1RNScdCm0eBqmrGtXr3FeAP%2BCuNp8pK5JwtvkPes%2FoSwWJb%2BVOKvt7Yi0f%2B6i9zZyA%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003204s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-12-15T12:09:09+08:00 ] 114.242.249.127 /user/getcode?nsukey=XJkOB9IWF1yARhXZQIFsSUY46aMoWKF%2Bl0bXnn0IpTLs8IAUok4YYBiipyWjIdjF2w7JNdTJ0XCy%2Fh%2F2q1suUC%2Bwr8l5KiRhV1h%2BM37LtdoSukHAuiOlBtPB2NbkvmHmbpUQGICm3PalikehEd3P1RNScdCm0eBqmrGtXr3FeAP%2BCuNp8pK5JwtvkPes%2FoSwWJb%2BVOKvt7Yi0f%2B6i9zZyA%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-12-15T12:09:17+08:00 ] 120.204.17.70 /user/getcode?nsukey=XJkOB9IWF1yARhXZQIFsSUY46aMoWKF%2Bl0bXnn0IpTLs8IAUok4YYBiipyWjIdjF2w7JNdTJ0XCy%2Fh%2F2q1suUC%2Bwr8l5KiRhV1h%2BM37LtdoSukHAuiOlBtPB2NbkvmHmbpUQGICm3PalikehEd3P1RNScdCm0eBqmrGtXr3FeAP%2BCuNp8pK5JwtvkPes%2FoSwWJb%2BVOKvt7Yi0f%2B6i9zZyA%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-15T12:10:06+08:00 ] 101.226.233.144 /?signature=1f3f9b0fa7bc9b77ef812996c28cb836f9da241c&timestamp=1513311006&nonce=1972315203&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-12-15T12:10:08+08:00 ] 61.129.6.78 /user/getcode?nsukey=kVlQKf5pcoJwK637zx%2BXd8xvPgacsBmi4X4kk9dFb9F9ItiM7Wbbww2gdBYPkRn%2FzxTcXfEtZ%2BGrFF6xtQjKnTAmPmhVzGK3uz14EHq7rfIt37G6AtL8NA4W2%2F83lvCxKM7zsoOGWdOZIOqNT%2BQo88CRYHfsXIr8Y2AixhbD7vPFHjjG0%2B6Kw27%2Bv92d%2F8gd7UcZLMM4k15RiqIxWPg95g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-15T12:10:09+08:00 ] 61.151.207.252 /user/getcode?nsukey=kVlQKf5pcoJwK637zx%2BXd8xvPgacsBmi4X4kk9dFb9F9ItiM7Wbbww2gdBYPkRn%2FzxTcXfEtZ%2BGrFF6xtQjKnTAmPmhVzGK3uz14EHq7rfIt37G6AtL8NA4W2%2F83lvCxKM7zsoOGWdOZIOqNT%2BQo88CRYHfsXIr8Y2AixhbD7vPFHjjG0%2B6Kw27%2Bv92d%2F8gd7UcZLMM4k15RiqIxWPg95g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-12-15T12:10:09+08:00 ] 61.129.7.254 /user/getcode?nsukey=kVlQKf5pcoJwK637zx%2BXd8xvPgacsBmi4X4kk9dFb9F9ItiM7Wbbww2gdBYPkRn%2FzxTcXfEtZ%2BGrFF6xtQjKnTAmPmhVzGK3uz14EHq7rfIt37G6AtL8NA4W2%2F83lvCxKM7zsoOGWdOZIOqNT%2BQo88CRYHfsXIr8Y2AixhbD7vPFHjjG0%2B6Kw27%2Bv92d%2F8gd7UcZLMM4k15RiqIxWPg95g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-12-15T12:10:09+08:00 ] 61.151.178.170 /user/getcode?nsukey=kVlQKf5pcoJwK637zx%2BXd8xvPgacsBmi4X4kk9dFb9F9ItiM7Wbbww2gdBYPkRn%2FzxTcXfEtZ%2BGrFF6xtQjKnTAmPmhVzGK3uz14EHq7rfIt37G6AtL8NA4W2%2F83lvCxKM7zsoOGWdOZIOqNT%2BQo88CRYHfsXIr8Y2AixhbD7vPFHjjG0%2B6Kw27%2Bv92d%2F8gd7UcZLMM4k15RiqIxWPg95g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-12-15T12:10:11+08:00 ] 114.242.249.127 /user/getcode?nsukey=kVlQKf5pcoJwK637zx%2BXd8xvPgacsBmi4X4kk9dFb9F9ItiM7Wbbww2gdBYPkRn%2FzxTcXfEtZ%2BGrFF6xtQjKnTAmPmhVzGK3uz14EHq7rfIt37G6AtL8NA4W2%2F83lvCxKM7zsoOGWdOZIOqNT%2BQo88CRYHfsXIr8Y2AixhbD7vPFHjjG0%2B6Kw27%2Bv92d%2F8gd7UcZLMM4k15RiqIxWPg95g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-15T12:10:17+08:00 ] 120.204.17.67 /user/getcode?nsukey=kVlQKf5pcoJwK637zx%2BXd8xvPgacsBmi4X4kk9dFb9F9ItiM7Wbbww2gdBYPkRn%2FzxTcXfEtZ%2BGrFF6xtQjKnTAmPmhVzGK3uz14EHq7rfIt37G6AtL8NA4W2%2F83lvCxKM7zsoOGWdOZIOqNT%2BQo88CRYHfsXIr8Y2AixhbD7vPFHjjG0%2B6Kw27%2Bv92d%2F8gd7UcZLMM4k15RiqIxWPg95g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-12-15T12:10:19+08:00 ] 120.204.17.67 /user/getcode?nsukey=kVlQKf5pcoJwK637zx%2BXd8xvPgacsBmi4X4kk9dFb9F9ItiM7Wbbww2gdBYPkRn%2FzxTcXfEtZ%2BGrFF6xtQjKnTAmPmhVzGK3uz14EHq7rfIt37G6AtL8NA4W2%2F83lvCxKM7zsoOGWdOZIOqNT%2BQo88CRYHfsXIr8Y2AixhbD7vPFHjjG0%2B6Kw27%2Bv92d%2F8gd7UcZLMM4k15RiqIxWPg95g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-12-15T12:10:53+08:00 ] 101.226.233.139 /?signature=06531a6faf63b545ca0b053180618a7f96ce0386&timestamp=1513311053&nonce=1434588799&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-12-15T12:10:56+08:00 ] 61.129.8.199 /user/getcode?nsukey=BxSt7WCnx%2F58JV4juZ%2BsDOc6DgwrktuX2tb9BUlbjwtE2wFvRp7Gd6cPM%2FUUg%2FBiOIrM9en07z%2BljSeuIBFiV7N9d23iI70Tobh%2F5tH0984SEfWc6RU9UqZnC2o%2Bahaz2ndY6AlTUk8J9PwampJSPIQH3svVkib3BKqtyCoATrUnSQ%2F7CqeMyRBmI6Tv8JQSaHuGHJJ8CZHnHu5lm2zsOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-15T12:10:56+08:00 ] 61.151.179.27 /user/getcode?nsukey=BxSt7WCnx%2F58JV4juZ%2BsDOc6DgwrktuX2tb9BUlbjwtE2wFvRp7Gd6cPM%2FUUg%2FBiOIrM9en07z%2BljSeuIBFiV7N9d23iI70Tobh%2F5tH0984SEfWc6RU9UqZnC2o%2Bahaz2ndY6AlTUk8J9PwampJSPIQH3svVkib3BKqtyCoATrUnSQ%2F7CqeMyRBmI6Tv8JQSaHuGHJJ8CZHnHu5lm2zsOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004196s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-12-15T12:10:56+08:00 ] 121.51.14.25 /user/getcode?nsukey=BxSt7WCnx%2F58JV4juZ%2BsDOc6DgwrktuX2tb9BUlbjwtE2wFvRp7Gd6cPM%2FUUg%2FBiOIrM9en07z%2BljSeuIBFiV7N9d23iI70Tobh%2F5tH0984SEfWc6RU9UqZnC2o%2Bahaz2ndY6AlTUk8J9PwampJSPIQH3svVkib3BKqtyCoATrUnSQ%2F7CqeMyRBmI6Tv8JQSaHuGHJJ8CZHnHu5lm2zsOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-12-15T12:10:56+08:00 ] 121.51.14.21 /user/getcode?nsukey=BxSt7WCnx%2F58JV4juZ%2BsDOc6DgwrktuX2tb9BUlbjwtE2wFvRp7Gd6cPM%2FUUg%2FBiOIrM9en07z%2BljSeuIBFiV7N9d23iI70Tobh%2F5tH0984SEfWc6RU9UqZnC2o%2Bahaz2ndY6AlTUk8J9PwampJSPIQH3svVkib3BKqtyCoATrUnSQ%2F7CqeMyRBmI6Tv8JQSaHuGHJJ8CZHnHu5lm2zsOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-12-15T12:10:57+08:00 ] 114.242.249.127 /user/getcode?nsukey=BxSt7WCnx%2F58JV4juZ%2BsDOc6DgwrktuX2tb9BUlbjwtE2wFvRp7Gd6cPM%2FUUg%2FBiOIrM9en07z%2BljSeuIBFiV7N9d23iI70Tobh%2F5tH0984SEfWc6RU9UqZnC2o%2Bahaz2ndY6AlTUk8J9PwampJSPIQH3svVkib3BKqtyCoATrUnSQ%2F7CqeMyRBmI6Tv8JQSaHuGHJJ8CZHnHu5lm2zsOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-15T12:11:06+08:00 ] 120.204.17.67 /user/getcode?nsukey=BxSt7WCnx%2F58JV4juZ%2BsDOc6DgwrktuX2tb9BUlbjwtE2wFvRp7Gd6cPM%2FUUg%2FBiOIrM9en07z%2BljSeuIBFiV7N9d23iI70Tobh%2F5tH0984SEfWc6RU9UqZnC2o%2Bahaz2ndY6AlTUk8J9PwampJSPIQH3svVkib3BKqtyCoATrUnSQ%2F7CqeMyRBmI6Tv8JQSaHuGHJJ8CZHnHu5lm2zsOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-12-15T12:11:06+08:00 ] 120.204.17.73 /user/getcode?nsukey=BxSt7WCnx%2F58JV4juZ%2BsDOc6DgwrktuX2tb9BUlbjwtE2wFvRp7Gd6cPM%2FUUg%2FBiOIrM9en07z%2BljSeuIBFiV7N9d23iI70Tobh%2F5tH0984SEfWc6RU9UqZnC2o%2Bahaz2ndY6AlTUk8J9PwampJSPIQH3svVkib3BKqtyCoATrUnSQ%2F7CqeMyRBmI6Tv8JQSaHuGHJJ8CZHnHu5lm2zsOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-12-15T12:11:25+08:00 ] 114.242.249.127 /user/getcode?nsukey=BxSt7WCnx%2F58JV4juZ%2BsDOc6DgwrktuX2tb9BUlbjwtE2wFvRp7Gd6cPM%2FUUg%2FBiOIrM9en07z%2BljSeuIBFiV7N9d23iI70Tobh%2F5tH0984SEfWc6RU9UqZnC2o%2Bahaz2ndY6AlTUk8J9PwampJSPIQH3svVkib3BKqtyCoATrUnSQ%2F7CqeMyRBmI6Tv8JQSaHuGHJJ8CZHnHu5lm2zsOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-15T12:12:08+08:00 ] 101.226.233.144 /?signature=9a289933c880a63d77bb08a22a0abfc10e4c6bab&timestamp=1513311128&nonce=1184431941&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-12-15T12:12:10+08:00 ] 101.226.225.85 /user/getcode?nsukey=6b4Xdq0Eqr9mQWROwJprabAtmT%2BMBHyEgeE%2FI2y21DfJvcHQvfHhBtHNoF%2Fz%2B0r69PSZM364MxHkaiCnONaCtqVe6E1Dr4nCWYVU6BN5PHEuwJjJqUCTqCoyM%2Fatq8nJfZ1FqaH2mC3uw5zwvkCGleUh3uY7GYCoAbAa07%2BNKw8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003158s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-12-15T12:12:11+08:00 ] 121.51.14.20 /user/getcode?nsukey=6b4Xdq0Eqr9mQWROwJprabAtmT%2BMBHyEgeE%2FI2y21DfJvcHQvfHhBtHNoF%2Fz%2B0r69PSZM364MxHkaiCnONaCtqVe6E1Dr4nCWYVU6BN5PHEuwJjJqUCTqCoyM%2Fatq8nJfZ1FqaH2mC3uw5zwvkCGleUh3uY7GYCoAbAa07%2BNKw8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002729s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-12-15T12:12:11+08:00 ] 121.51.14.25 /user/getcode?nsukey=6b4Xdq0Eqr9mQWROwJprabAtmT%2BMBHyEgeE%2FI2y21DfJvcHQvfHhBtHNoF%2Fz%2B0r69PSZM364MxHkaiCnONaCtqVe6E1Dr4nCWYVU6BN5PHEuwJjJqUCTqCoyM%2Fatq8nJfZ1FqaH2mC3uw5zwvkCGleUh3uY7GYCoAbAa07%2BNKw8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-15T12:12:11+08:00 ] 61.151.178.170 /user/getcode?nsukey=6b4Xdq0Eqr9mQWROwJprabAtmT%2BMBHyEgeE%2FI2y21DfJvcHQvfHhBtHNoF%2Fz%2B0r69PSZM364MxHkaiCnONaCtqVe6E1Dr4nCWYVU6BN5PHEuwJjJqUCTqCoyM%2Fatq8nJfZ1FqaH2mC3uw5zwvkCGleUh3uY7GYCoAbAa07%2BNKw8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-15T12:12:12+08:00 ] 114.242.249.127 /user/getcode?nsukey=6b4Xdq0Eqr9mQWROwJprabAtmT%2BMBHyEgeE%2FI2y21DfJvcHQvfHhBtHNoF%2Fz%2B0r69PSZM364MxHkaiCnONaCtqVe6E1Dr4nCWYVU6BN5PHEuwJjJqUCTqCoyM%2Fatq8nJfZ1FqaH2mC3uw5zwvkCGleUh3uY7GYCoAbAa07%2BNKw8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002988s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-15T12:12:20+08:00 ] 58.247.212.98 /user/getcode?nsukey=6b4Xdq0Eqr9mQWROwJprabAtmT%2BMBHyEgeE%2FI2y21DfJvcHQvfHhBtHNoF%2Fz%2B0r69PSZM364MxHkaiCnONaCtqVe6E1Dr4nCWYVU6BN5PHEuwJjJqUCTqCoyM%2Fatq8nJfZ1FqaH2mC3uw5zwvkCGleUh3uY7GYCoAbAa07%2BNKw8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-15T12:12:21+08:00 ] 120.204.17.69 /user/getcode?nsukey=6b4Xdq0Eqr9mQWROwJprabAtmT%2BMBHyEgeE%2FI2y21DfJvcHQvfHhBtHNoF%2Fz%2B0r69PSZM364MxHkaiCnONaCtqVe6E1Dr4nCWYVU6BN5PHEuwJjJqUCTqCoyM%2Fatq8nJfZ1FqaH2mC3uw5zwvkCGleUh3uY7GYCoAbAa07%2BNKw8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-12-15T12:12:53+08:00 ] 114.242.249.127 /user/getcode?nsukey=6b4Xdq0Eqr9mQWROwJprabAtmT%2BMBHyEgeE%2FI2y21DfJvcHQvfHhBtHNoF%2Fz%2B0r69PSZM364MxHkaiCnONaCtqVe6E1Dr4nCWYVU6BN5PHEuwJjJqUCTqCoyM%2Fatq8nJfZ1FqaH2mC3uw5zwvkCGleUh3uY7GYCoAbAa07%2BNKw8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-12-15T12:15:12+08:00 ] 101.226.233.148 /?signature=d9dd8ddca021ed8144fae4b9d5f55ea44a146b58&timestamp=1513311312&nonce=1251003415&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-12-15T12:15:14+08:00 ] 101.226.225.59 /user/getcode?nsukey=nbCZ0MiVoE%2B28WCbVhJvA9oPgBHlfJocOLcDOZUf5LI%2BcDKFQoIJjUnEzC09HgCuY3Q7JgLpaGIrQW6grGcEo33qZpryC76FfvPWlaUxjP2bnFTTWUtmOcdJdWOGv8wCza%2B6%2BMgpk5EZdAwQ7B78S%2FOR708Tos1pkXHaWlmKkAiVgj2EmyxlBCPLqcsmxUXmmW19254siMXK3ID24ZakOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-12-15T12:15:14+08:00 ] 58.247.212.139 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-12-15T12:15:14+08:00 ] 61.151.178.175 /user/getcode?nsukey=nbCZ0MiVoE%2B28WCbVhJvA9oPgBHlfJocOLcDOZUf5LI%2BcDKFQoIJjUnEzC09HgCuY3Q7JgLpaGIrQW6grGcEo33qZpryC76FfvPWlaUxjP2bnFTTWUtmOcdJdWOGv8wCza%2B6%2BMgpk5EZdAwQ7B78S%2FOR708Tos1pkXHaWlmKkAiVgj2EmyxlBCPLqcsmxUXmmW19254siMXK3ID24ZakOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-12-15T12:15:14+08:00 ] 183.192.201.97 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-12-15T12:15:16+08:00 ] 114.242.249.127 /user/getcode?nsukey=nbCZ0MiVoE%2B28WCbVhJvA9oPgBHlfJocOLcDOZUf5LI%2BcDKFQoIJjUnEzC09HgCuY3Q7JgLpaGIrQW6grGcEo33qZpryC76FfvPWlaUxjP2bnFTTWUtmOcdJdWOGv8wCza%2B6%2BMgpk5EZdAwQ7B78S%2FOR708Tos1pkXHaWlmKkAiVgj2EmyxlBCPLqcsmxUXmmW19254siMXK3ID24ZakOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-12-15T12:15:24+08:00 ] 120.204.17.69 /user/getcode?nsukey=nbCZ0MiVoE%2B28WCbVhJvA9oPgBHlfJocOLcDOZUf5LI%2BcDKFQoIJjUnEzC09HgCuY3Q7JgLpaGIrQW6grGcEo33qZpryC76FfvPWlaUxjP2bnFTTWUtmOcdJdWOGv8wCza%2B6%2BMgpk5EZdAwQ7B78S%2FOR708Tos1pkXHaWlmKkAiVgj2EmyxlBCPLqcsmxUXmmW19254siMXK3ID24ZakOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004306s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-12-15T12:15:24+08:00 ] 58.247.212.98 /user/getcode?nsukey=nbCZ0MiVoE%2B28WCbVhJvA9oPgBHlfJocOLcDOZUf5LI%2BcDKFQoIJjUnEzC09HgCuY3Q7JgLpaGIrQW6grGcEo33qZpryC76FfvPWlaUxjP2bnFTTWUtmOcdJdWOGv8wCza%2B6%2BMgpk5EZdAwQ7B78S%2FOR708Tos1pkXHaWlmKkAiVgj2EmyxlBCPLqcsmxUXmmW19254siMXK3ID24ZakOQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-12-15T12:18:59+08:00 ] 101.226.233.144 /?signature=7f0c9330145e456b5bcb199a176017bf7c23fc77&timestamp=1513311539&nonce=1631177819&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-12-15T12:19:01+08:00 ] 121.51.14.21 /user/getcode?nsukey=Xo%2BtrLBDIVOJNQoARtVhcZbWALYLQeb9y%2Fc2YmieMhoWxKfAKtVIUA6BqVTNEDdDXjQEgSsVshesKbAW6Si29poxRHQ7tE0S0E6EBDKwJ7ZH8B7BxOgxX%2FBQi%2Bpf6sFl%2BLuSU90RQtfc6T2bU7M0xw%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003116s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-15T12:19:01+08:00 ] 157.255.172.17 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-12-15T12:19:01+08:00 ] 121.51.14.25 /user/getcode?nsukey=Xo%2BtrLBDIVOJNQoARtVhcZbWALYLQeb9y%2Fc2YmieMhoWxKfAKtVIUA6BqVTNEDdDXjQEgSsVshesKbAW6Si29poxRHQ7tE0S0E6EBDKwJ7ZH8B7BxOgxX%2FBQi%2Bpf6sFl%2BLuSU90RQtfc6T2bU7M0xw%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-12-15T12:19:02+08:00 ] 114.242.249.127 /user/getcode?nsukey=Xo%2BtrLBDIVOJNQoARtVhcZbWALYLQeb9y%2Fc2YmieMhoWxKfAKtVIUA6BqVTNEDdDXjQEgSsVshesKbAW6Si29poxRHQ7tE0S0E6EBDKwJ7ZH8B7BxOgxX%2FBQi%2Bpf6sFl%2BLuSU90RQtfc6T2bU7M0xw%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-12-15T12:19:11+08:00 ] 120.204.17.67 /user/getcode?nsukey=Xo%2BtrLBDIVOJNQoARtVhcZbWALYLQeb9y%2Fc2YmieMhoWxKfAKtVIUA6BqVTNEDdDXjQEgSsVshesKbAW6Si29poxRHQ7tE0S0E6EBDKwJ7ZH8B7BxOgxX%2FBQi%2Bpf6sFl%2BLuSU90RQtfc6T2bU7M0xw%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-12-15T12:19:34+08:00 ] 101.226.233.154 /?signature=4857257751f46464f2fcd940599e5a620bdf3132&timestamp=1513311574&nonce=532295875&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-12-15T12:19:36+08:00 ] 101.226.225.84 /user/getcode?nsukey=VT4B9ACtFdGI8QY8apK1TP%2BEx7oQ5zDzqR3%2B6Jn6yD%2FiMKZ2S8OyHzKezE745%2BWhyEXq73ytArBjtEmk%2FPWoaXwmZrXVVl1%2B7ayFxh83FjYjAXHz8br3emgqyTY6Do0cli1hCuRCdmWBDnmlCyRc4qTCVwdMvZvGI7lG0uKs8Y8m40m%2Fg2Vx6iJKqSPlVy7aVk47XryMm%2B7mabEGPsar6g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-12-15T12:19:36+08:00 ] 61.129.6.147 /user/getcode?nsukey=VT4B9ACtFdGI8QY8apK1TP%2BEx7oQ5zDzqR3%2B6Jn6yD%2FiMKZ2S8OyHzKezE745%2BWhyEXq73ytArBjtEmk%2FPWoaXwmZrXVVl1%2B7ayFxh83FjYjAXHz8br3emgqyTY6Do0cli1hCuRCdmWBDnmlCyRc4qTCVwdMvZvGI7lG0uKs8Y8m40m%2Fg2Vx6iJKqSPlVy7aVk47XryMm%2B7mabEGPsar6g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004305s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-12-15T12:19:37+08:00 ] 114.242.249.127 /user/getcode?nsukey=VT4B9ACtFdGI8QY8apK1TP%2BEx7oQ5zDzqR3%2B6Jn6yD%2FiMKZ2S8OyHzKezE745%2BWhyEXq73ytArBjtEmk%2FPWoaXwmZrXVVl1%2B7ayFxh83FjYjAXHz8br3emgqyTY6Do0cli1hCuRCdmWBDnmlCyRc4qTCVwdMvZvGI7lG0uKs8Y8m40m%2Fg2Vx6iJKqSPlVy7aVk47XryMm%2B7mabEGPsar6g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-12-15T12:19:45+08:00 ] 120.204.17.69 /user/getcode?nsukey=VT4B9ACtFdGI8QY8apK1TP%2BEx7oQ5zDzqR3%2B6Jn6yD%2FiMKZ2S8OyHzKezE745%2BWhyEXq73ytArBjtEmk%2FPWoaXwmZrXVVl1%2B7ayFxh83FjYjAXHz8br3emgqyTY6Do0cli1hCuRCdmWBDnmlCyRc4qTCVwdMvZvGI7lG0uKs8Y8m40m%2Fg2Vx6iJKqSPlVy7aVk47XryMm%2B7mabEGPsar6g%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-12-15T12:22:21+08:00 ] 101.226.233.151 /?signature=4e66c22bb8fdcee494bd5f6243d8fa533141f487&timestamp=1513311741&nonce=491227762&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-12-15T12:22:23+08:00 ] 101.226.225.86 /user/getcode?nsukey=9wWfba%2FHqoEtYx%2F15eh5Ji%2Biv4M8erwzRuElzLj%2FQ5azLuzs%2F4tVIZjxpJCtzrfdDSJj5SWBVmVF6cocsWW0opMQNgdzhyEI%2FqLQ%2BWkgBNZEEFQfSiqLmjjESIolC4fiYhwGaeZCtbK0n6aKZig5FlRHW4at6HlJEd482E1UxwxSw2UzJApub%2B5fwDNANwDWlYQTle%2F6%2FUYsHCSbBiRQkg%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-15T12:22:24+08:00 ] 101.226.225.84 /user/getcode?nsukey=9wWfba%2FHqoEtYx%2F15eh5Ji%2Biv4M8erwzRuElzLj%2FQ5azLuzs%2F4tVIZjxpJCtzrfdDSJj5SWBVmVF6cocsWW0opMQNgdzhyEI%2FqLQ%2BWkgBNZEEFQfSiqLmjjESIolC4fiYhwGaeZCtbK0n6aKZig5FlRHW4at6HlJEd482E1UxwxSw2UzJApub%2B5fwDNANwDWlYQTle%2F6%2FUYsHCSbBiRQkg%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002980s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-12-15T12:22:24+08:00 ] 61.129.8.199 /user/getcode?nsukey=9wWfba%2FHqoEtYx%2F15eh5Ji%2Biv4M8erwzRuElzLj%2FQ5azLuzs%2F4tVIZjxpJCtzrfdDSJj5SWBVmVF6cocsWW0opMQNgdzhyEI%2FqLQ%2BWkgBNZEEFQfSiqLmjjESIolC4fiYhwGaeZCtbK0n6aKZig5FlRHW4at6HlJEd482E1UxwxSw2UzJApub%2B5fwDNANwDWlYQTle%2F6%2FUYsHCSbBiRQkg%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000043s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-12-15T12:22:26+08:00 ] 61.129.7.217 /user/getcode?nsukey=9wWfba%2FHqoEtYx%2F15eh5Ji%2Biv4M8erwzRuElzLj%2FQ5azLuzs%2F4tVIZjxpJCtzrfdDSJj5SWBVmVF6cocsWW0opMQNgdzhyEI%2FqLQ%2BWkgBNZEEFQfSiqLmjjESIolC4fiYhwGaeZCtbK0n6aKZig5FlRHW4at6HlJEd482E1UxwxSw2UzJApub%2B5fwDNANwDWlYQTle%2F6%2FUYsHCSbBiRQkg%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-12-15T12:22:28+08:00 ] 114.242.249.127 /user/getcode?nsukey=9wWfba%2FHqoEtYx%2F15eh5Ji%2Biv4M8erwzRuElzLj%2FQ5azLuzs%2F4tVIZjxpJCtzrfdDSJj5SWBVmVF6cocsWW0opMQNgdzhyEI%2FqLQ%2BWkgBNZEEFQfSiqLmjjESIolC4fiYhwGaeZCtbK0n6aKZig5FlRHW4at6HlJEd482E1UxwxSw2UzJApub%2B5fwDNANwDWlYQTle%2F6%2FUYsHCSbBiRQkg%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-12-15T12:22:33+08:00 ] 183.192.201.97 /user/getcode?nsukey=9wWfba%2FHqoEtYx%2F15eh5Ji%2Biv4M8erwzRuElzLj%2FQ5azLuzs%2F4tVIZjxpJCtzrfdDSJj5SWBVmVF6cocsWW0opMQNgdzhyEI%2FqLQ%2BWkgBNZEEFQfSiqLmjjESIolC4fiYhwGaeZCtbK0n6aKZig5FlRHW4at6HlJEd482E1UxwxSw2UzJApub%2B5fwDNANwDWlYQTle%2F6%2FUYsHCSbBiRQkg%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-12-15T12:22:33+08:00 ] 120.204.17.68 /user/getcode?nsukey=9wWfba%2FHqoEtYx%2F15eh5Ji%2Biv4M8erwzRuElzLj%2FQ5azLuzs%2F4tVIZjxpJCtzrfdDSJj5SWBVmVF6cocsWW0opMQNgdzhyEI%2FqLQ%2BWkgBNZEEFQfSiqLmjjESIolC4fiYhwGaeZCtbK0n6aKZig5FlRHW4at6HlJEd482E1UxwxSw2UzJApub%2B5fwDNANwDWlYQTle%2F6%2FUYsHCSbBiRQkg%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-12-15T12:28:06+08:00 ] 101.226.233.151 /?signature=f70a4e76f031393dc31e3527223c26979a6a4011&timestamp=1513312086&nonce=431659336&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-12-15T12:28:08+08:00 ] 61.129.8.199 /user/getcode?nsukey=Br16i9tHGq0Z9D%2BWZbTI3OOrmwxEmiYgkNrQJ0mJ%2BOpHJsU1ZN8SbgFmTX8EAIfLPZuvKvdW2wIyvVrTBfl%2FtScwo6M%2BWVpkEmhL2FrfN91TK7J7%2BDdp7A9sVxl6GuIQ7mkTqLh2RhPpItbvkA88jovJ613tD4WxQlU5uOBQ%2BwUuEhyG7mXR3PSvWGx2lBFbvJDgsZ%2BLExe5swEbYLDrQQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-12-15T12:28:08+08:00 ] 61.129.8.179 /user/getcode?nsukey=Br16i9tHGq0Z9D%2BWZbTI3OOrmwxEmiYgkNrQJ0mJ%2BOpHJsU1ZN8SbgFmTX8EAIfLPZuvKvdW2wIyvVrTBfl%2FtScwo6M%2BWVpkEmhL2FrfN91TK7J7%2BDdp7A9sVxl6GuIQ7mkTqLh2RhPpItbvkA88jovJ613tD4WxQlU5uOBQ%2BwUuEhyG7mXR3PSvWGx2lBFbvJDgsZ%2BLExe5swEbYLDrQQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004333s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-12-15T12:28:09+08:00 ] 114.242.249.127 /user/getcode?nsukey=Br16i9tHGq0Z9D%2BWZbTI3OOrmwxEmiYgkNrQJ0mJ%2BOpHJsU1ZN8SbgFmTX8EAIfLPZuvKvdW2wIyvVrTBfl%2FtScwo6M%2BWVpkEmhL2FrfN91TK7J7%2BDdp7A9sVxl6GuIQ7mkTqLh2RhPpItbvkA88jovJ613tD4WxQlU5uOBQ%2BwUuEhyG7mXR3PSvWGx2lBFbvJDgsZ%2BLExe5swEbYLDrQQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-12-15T12:28:17+08:00 ] 120.204.17.71 /user/getcode?nsukey=Br16i9tHGq0Z9D%2BWZbTI3OOrmwxEmiYgkNrQJ0mJ%2BOpHJsU1ZN8SbgFmTX8EAIfLPZuvKvdW2wIyvVrTBfl%2FtScwo6M%2BWVpkEmhL2FrfN91TK7J7%2BDdp7A9sVxl6GuIQ7mkTqLh2RhPpItbvkA88jovJ613tD4WxQlU5uOBQ%2BwUuEhyG7mXR3PSvWGx2lBFbvJDgsZ%2BLExe5swEbYLDrQQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-12-15T12:28:45+08:00 ] 101.226.233.154 /?signature=77d758ec85fcb4ee7795ed890bf0b6325662069a&timestamp=1513312125&nonce=364274658&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-12-15T12:28:47+08:00 ] 61.151.178.180 /user/getcode?nsukey=SCOTbD84IXkVDk%2B6%2BcZEVHvtZyzcJptjAad7BeYmYsBotio6jN0z22T8qDxMK0hZf%2Fd%2Fk%2Fx3yDzRwrnEMmkzj1LuVZdJvTr8dkQi1LGWmLgzr9z8ZFKa4mDfZ9OgqW832a2pdtbXHiFAr6PjMtnFnDH5m4XUnaaPBQvljQQh5H8CJT52AdyCwmokNZmxLeRr0IRNZig%2BFke225XwA0SIGQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004436s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-12-15T12:28:48+08:00 ] 101.226.225.59 /user/getcode?nsukey=SCOTbD84IXkVDk%2B6%2BcZEVHvtZyzcJptjAad7BeYmYsBotio6jN0z22T8qDxMK0hZf%2Fd%2Fk%2Fx3yDzRwrnEMmkzj1LuVZdJvTr8dkQi1LGWmLgzr9z8ZFKa4mDfZ9OgqW832a2pdtbXHiFAr6PjMtnFnDH5m4XUnaaPBQvljQQh5H8CJT52AdyCwmokNZmxLeRr0IRNZig%2BFke225XwA0SIGQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-12-15T12:28:49+08:00 ] 114.242.249.127 /user/getcode?nsukey=SCOTbD84IXkVDk%2B6%2BcZEVHvtZyzcJptjAad7BeYmYsBotio6jN0z22T8qDxMK0hZf%2Fd%2Fk%2Fx3yDzRwrnEMmkzj1LuVZdJvTr8dkQi1LGWmLgzr9z8ZFKa4mDfZ9OgqW832a2pdtbXHiFAr6PjMtnFnDH5m4XUnaaPBQvljQQh5H8CJT52AdyCwmokNZmxLeRr0IRNZig%2BFke225XwA0SIGQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000041s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002980s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-15T12:28:57+08:00 ] 58.247.212.98 /user/getcode?nsukey=SCOTbD84IXkVDk%2B6%2BcZEVHvtZyzcJptjAad7BeYmYsBotio6jN0z22T8qDxMK0hZf%2Fd%2Fk%2Fx3yDzRwrnEMmkzj1LuVZdJvTr8dkQi1LGWmLgzr9z8ZFKa4mDfZ9OgqW832a2pdtbXHiFAr6PjMtnFnDH5m4XUnaaPBQvljQQh5H8CJT52AdyCwmokNZmxLeRr0IRNZig%2BFke225XwA0SIGQ%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-12-15T12:42:47+08:00 ] 183.57.54.43 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-12-15T13:49:49+08:00 ] 218.93.201.199 /manager/html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+ERR: 无法加载控制器:Manager
+
+[ 2017-12-15T14:05:10+08:00 ] 111.201.84.25 /opt/setParam
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-12-15T14:09:30+08:00 ] 101.226.233.146 /?signature=74965473fa3a67831897f216b793af93b62e7714&timestamp=1513318170&nonce=243971087&openid=oY-Kxs67AcrRzCusHAD1M8z4QwfU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-12-15T14:09:31+08:00 ] 58.247.212.55 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-12-15T14:09:31+08:00 ] 183.192.201.97 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-12-15T14:09:31+08:00 ] 61.129.7.217 /user/getcode?nsukey=4iSafHrTXqIp17BEl4YEb4kTIvrCU3JABdyYfcskcphGh5SoRqeakaNpJbLX3OuNUt7blY7w%2B4cc6xlgYiQvpSB12TCQpMvmJ95kAfG9ky7NycO9no8YA1%2BoP8w2Um%2BBZIaboApfJr1Ng2e%2FabbmKMZxF%2FZ7uWyIH9uEoGE%2BgMUQIIsoKH%2BsAAVvPnqG4aGa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-12-15T14:09:33+08:00 ] 101.226.225.84 /user/getcode?nsukey=4iSafHrTXqIp17BEl4YEb4kTIvrCU3JABdyYfcskcphGh5SoRqeakaNpJbLX3OuNUt7blY7w%2B4cc6xlgYiQvpSB12TCQpMvmJ95kAfG9ky7NycO9no8YA1%2BoP8w2Um%2BBZIaboApfJr1Ng2e%2FabbmKMZxF%2FZ7uWyIH9uEoGE%2BgMUQIIsoKH%2BsAAVvPnqG4aGa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-12-15T14:09:33+08:00 ] 123.121.26.250 /user/getcode?nsukey=4iSafHrTXqIp17BEl4YEb4kTIvrCU3JABdyYfcskcphGh5SoRqeakaNpJbLX3OuNUt7blY7w%2B4cc6xlgYiQvpSB12TCQpMvmJ95kAfG9ky7NycO9no8YA1%2BoP8w2Um%2BBZIaboApfJr1Ng2e%2FabbmKMZxF%2FZ7uWyIH9uEoGE%2BgMUQIIsoKH%2BsAAVvPnqG4aGa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000041s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-15T14:09:41+08:00 ] 58.247.212.98 /user/getcode?nsukey=4iSafHrTXqIp17BEl4YEb4kTIvrCU3JABdyYfcskcphGh5SoRqeakaNpJbLX3OuNUt7blY7w%2B4cc6xlgYiQvpSB12TCQpMvmJ95kAfG9ky7NycO9no8YA1%2BoP8w2Um%2BBZIaboApfJr1Ng2e%2FabbmKMZxF%2FZ7uWyIH9uEoGE%2BgMUQIIsoKH%2BsAAVvPnqG4aGa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-12-15T15:30:21+08:00 ] 185.110.132.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+NOTIC: [8] Trying to get property of non-object /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] Creating default object from empty value /home/wwwroot/thinkapi/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-12-15T16:20:50+08:00 ] 114.240.130.118 /opt/phpinfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+ERR: 非法操作:phpinfo
+
+[ 2017-12-15T16:21:20+08:00 ] 114.240.130.118 /opt/phpinfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
