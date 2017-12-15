@@ -1,7 +1,7 @@
 <?php
 namespace Home\Controller;
 use Think\Controller;
-include_once vendor/autoload.php;
+//include_once vendor/autoload.php;
 use EasyWeChat\Factory;
 
 class ServerController extends Controller {
