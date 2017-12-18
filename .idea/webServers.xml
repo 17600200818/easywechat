@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52c6f8a8-25dc-4e12-b4bd-6658c5c6d309" name="easywechat" url="http://119.27.184.82">
+        <fileTransfer host="119.27.184.82" port="22" accessType="SFTP" password="dff9dfdedfd8dfc5dfc4dfcddf84df9bdf93df93df99df80" username="yty">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -23,6 +23,8 @@ define('APP_PATH','./Application/');
 //添加默认模块
 define('BIND_MODULE','Home');
 
+require(__DIR__ . '/vendor/autoload.php');
+
 // 引入ThinkPHP入口文件
 require './ThinkPHP/ThinkPHP.php';
 
